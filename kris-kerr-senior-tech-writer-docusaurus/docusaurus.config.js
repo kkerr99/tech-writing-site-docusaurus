@@ -72,12 +72,14 @@ const config = {
           src: 'img/quill-ink-svgrepo-com.svg',
         },
         items: [
+          
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Résumé',
           },
+          
           /*
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -93,12 +95,14 @@ const config = {
         links: [
           {
             title: 'Docs',
+            /*
             items: [
               {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
             ],
+            */
           },
           {
             title: 'Community',
