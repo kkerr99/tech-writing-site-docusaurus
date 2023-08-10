@@ -44,6 +44,7 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+        /*
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
@@ -51,6 +52,7 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+        */
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -76,12 +78,14 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          /*
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/kkerr99',
             label: 'GitHub',
             position: 'right',
           },
+          */
         ],
       },
       footer: {
@@ -115,6 +119,7 @@ const config = {
           },
           {
             title: 'More',
+            /*
             items: [
               {
                 label: 'Blog',
@@ -125,6 +130,7 @@ const config = {
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
+            */
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Kris Kerr. Built with Docusaurus.`,
