@@ -3,6 +3,7 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
+  /*
   {
     title: 'Easy to Use',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
@@ -30,6 +31,34 @@ const FeatureList = [
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
         be extended while reusing the same header and footer.
+      </>
+    ),
+  },
+  */
+  {
+    title: 'Experienced',
+    Svg: require('@site/static/img/mountain-svgrepo-com.svg').default,
+    description: (
+      <>
+        I have over 20 years of experience as a technical writer. I know how to write clear, concise documentation that will make your software shine. 
+      </>
+    ),
+  },
+  {
+    title: 'Strong Technical Skills',
+    Svg: require('@site/static/img/programmer-thought-svgrepo-com.svg').default,
+    description: (
+      <>
+        I have a Computer Science degree, and I have experience as a software engineer. I can do technical tasks most technical writers can't.
+      </>
+    ),
+  },
+  {
+    title: 'Gets the Job Done',
+    Svg: require('@site/static/img/worker-digging-a-hole-svgrepo-com.svg').default,
+    description: (
+      <>
+        Just tell me what you need, and I will get it done. I don't need hand-holding.
       </>
     ),
   },

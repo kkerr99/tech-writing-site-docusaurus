@@ -71,7 +71,8 @@ const config = {
         title: 'Kris Kerr - Senior Technical Writer',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/quill-ink-svgrepo-com.svg',
+          // src: 'img/quill-ink-svgrepo-com.svg',
+          src: 'img/desktop-computer-screen-svgrepo-com.svg',
         },
         items: [
           {
@@ -105,27 +106,41 @@ const config = {
               },
             ],
             */
-          },
-          {
-            title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Résumé for Kris Kerr',
+                to: '/docs/kris-kerr-resume',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'My views on software documentation',
+                to: '/docs/my-views-on-software-documentation',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Hard facts about software documentation',
+                to: '/docs/hard-facts',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Links',
+            items: [
+              {
+                label: 'Work samples',
+                href: 'https://drive.google.com/drive/folders/1tiSuAq8dhj5PUqNmIBoidGGfZL-N5vZ0?usp=sharing',
+              },
+              {
+                label: 'LinkedIn profile',
+                href: 'https://www.linkedin.com/in/kris-kerr-2469849/',
+              },
+              {
+                label: 'GitHub account',
+                href: 'https://github.com/kkerr99',
+              },
+            ],
+          },
+          {
             /*
+            title: 'More',
             items: [
               {
                 label: 'Blog',
