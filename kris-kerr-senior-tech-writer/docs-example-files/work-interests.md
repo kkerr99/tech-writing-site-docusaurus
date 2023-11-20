@@ -1,5 +1,5 @@
 ---
-title: The job I'm looking for
+title: How I can improve your documentation
 description: Kris Kerr's work interests
 keywords:
     - work
@@ -10,7 +10,7 @@ keywords:
 
 I've written a lot of software documentation, just about every type there is. I'm satisfied that I can write compact, useful documentation in the real world.
 
-At this stage I'm more interested in helping companies with their documentation tools and processes. I've seen the good, the bad, and the ugly (documentation-wise). I can help companies avoid common pitfalls and guide them to produce useful documentation via tools and processes that work in the real world.
+At this stage I'm more interested in helping companies with their documentation tools and processes. I've seen the good, the bad, and the ugly (documentation-wise). I can help your company avoid common pitfalls and recommend tools and processes that work in the real world.
 
 If you're in the following situations, I can help:
 - You're a small software company where developers have so far written all the documentation, and you're looking to hire your first technical writer.
