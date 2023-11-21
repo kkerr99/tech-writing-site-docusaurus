@@ -108,26 +108,22 @@ const config = {
             */
             items: [
               {
-                label: 'Résumé for Kris Kerr',
+                label: 'Résumé',
                 to: '/docs/kris-kerr-resume',
+              },
+              {
+                label: 'Work Samples',
+                to: '/docs/work-samples',
               },
               {
                 label: 'My views on software documentation',
                 to: '/docs/my-views-on-software-documentation',
-              },
-              {
-                label: 'Hard facts about software documentation',
-                to: '/docs/hard-facts',
               },
             ],
           },
           {
             title: 'Links',
             items: [
-              {
-                label: 'Work samples',
-                href: 'https://drive.google.com/drive/folders/1tiSuAq8dhj5PUqNmIBoidGGfZL-N5vZ0?usp=sharing',
-              },
               {
                 label: 'LinkedIn profile',
                 href: 'https://www.linkedin.com/in/kris-kerr-2469849/',

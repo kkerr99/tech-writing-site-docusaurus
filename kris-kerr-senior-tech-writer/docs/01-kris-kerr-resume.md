@@ -1,5 +1,6 @@
 ---
 title: Résumé for Kris Kerr
+sidebar_label: Résumé
 description: Résumé for Kris Kerr
 keywords:
     - résumé
@@ -12,12 +13,9 @@ kkerr99@gmail.com
 303-668-2041
 
 ## Links
-| Site        | URL     |
-|--------------|-----------|
-| Personal website | https://kris-kerr-senior-technical-writer.netlify.app/ |
-| LinkedIn profile | https://www.linkedin.com/in/kris-kerr-2469849/ |
-| GitHub account | https://github.com/kkerr99 |
-| Work samples | https://drive.google.com/drive/folders/1tiSuAq8dhj5PUqNmIBoidGGfZL-N5vZ0?usp=sharing |
+- [Work samples](work-samples)
+- [LinkedIn profile](https://www.linkedin.com/in/kris-kerr-2469849/)
+- [GitHub account](https://github.com/kkerr99)
 
 ## Experience
 
